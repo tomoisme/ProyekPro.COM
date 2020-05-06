@@ -2,6 +2,6 @@ baseURL = ""
 languageCode = "id-ID"
 title = "B2B Indonesia, Jual Beli Bahan Bangunan, Supplier Elektrikal, HVAC, Dll."
 assetDir = "static"
-
+paginate = 10
 [taxonomies]
     tag="#"
