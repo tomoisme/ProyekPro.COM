@@ -53,6 +53,7 @@
 <!-- Script -->
 <script src="{{ .Site.BaseURL }}/js/jquery.min.js"></script>
 <script src="{{ .Site.BaseURL }}/js/materialize.min.js"></script>
+{{if .IsHome}}
 <!-- Owl carousel -->
 <script src="{{ .Site.BaseURL }}/lib/owlcarousel/owl.carousel.min.js"></script>
 <!-- Magnific Popup core JS file -->
@@ -60,6 +61,7 @@
 <!-- Slick JS -->
 <script src="{{ .Site.BaseURL }}/lib/slick/slick/slick.min.js"></script>
 <!-- Custom script -->
+{{end}}
 <script src="{{ .Site.BaseURL }}/js/custom.js"></script>
 </body>
 
