@@ -65,3 +65,6 @@ node_modules/
 .env
 .firebaserc
 firebase.json
+
+# public folder
+public
