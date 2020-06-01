@@ -22,13 +22,23 @@ Kami sering mendapatkan pertanyaan tentang perbedaan antara pipa PVC kelas AW da
 
 Berikut Ini adalah daftar harga pipa PVC berbagai merk.
 
-<h5 style="text-align:center;">Pipa PVC Rucika Standard (Wavin)</h5>
+<h5 style="text-align:center;">Harga Pipa PVC Champion</h5>
+
+{{<pipa-pvc/harga-champion>}}
+
+Pipa PVC Champion adalah salah satu pipa PVC murah dengan kualitas yang baik. Cocok untuk proyek yang butuh pipa PVC dengan budget minim. Silahkan hubungi supplier di bawah ini untuk pembelian pipa PVC Champion.
+
+**Sales: 0813 8125 3138**
+
+<br>
+
+<h5 style="text-align:center;">Harga Pipa PVC Rucika Standard (Wavin)</h5>
 
 {{<pipa-pvc/harga-rucika-std>}}
 
 <br>
 
-<h5 style="text-align:center;">Pipa PVC Intilon</h5>
+<h5 style="text-align:center;">Harga Pipa PVC Intilon</h5>
 
 {{<pipa-pvc/harga-intilon-std>}}
 
@@ -44,5 +54,10 @@ Pipa PVC Intilon AW 4" = Rp 317.400/batang
 
 Pipa PVC Intilon D 4" = Rp 163.900
 
- 	
+##### Kelebihan Pipa PVC
 
+Selain karena harganya yang relatif lebih murah dibandingkan dengan [pipa galvanis](../harga-pipa-galvanis-terbaru/) maupun [pipa besi](../harga-pipa-besi-terbaru/), pipa PVC juga tahan terhadap korosi. Faktor kemudahan dalam pemasangan/instalasi juga merupakan salah satu hal penting yang membuat pipa PVC lebih unggul terhadap pipa besi karena ringan dan sangat mudah dipasang, baik yang menggunakan sistem penyambungan dengan lem PVC (Solvent Cement Joint) maupun penyambungan dengan sistem Rubber Ring Joint (RRJ).
+
+##### Kekurangan Pipa PVC
+
+Ada satu-dua hal yang menyebabkan pipa PVC tidak dapat digunakan untuk proyek konstruksi. Yang pertama, pipa PVC tidak tahan terhadap panas sedangkan pengguna membutuhkan pipa yang dapat mengalirkan cairan dengan suhu tinggi. Menurut beberapa brosur pipa PVC yang dijual di pasaran, tim ProyekPro menyimpulkan bahwa suhu maksimal yang masih dapat ditolerir oleh pipa PVC adalah 60&deg; C. Hal kedua yang berkontribusi terhadap kekurangan pipa PVC adalah sifat pipa ini yang berubah menjadi getas ketika lama terpapar sinar matahari. Memang sifat getas ini juga tergantung pada harga pipa PVC itu sendiri, dimana pipa PVC dengan harga yang lebih tinggi cenderung lebih kuat terhadap paparan sinar matahari dalam periode pemakaian puluhan tahun.
