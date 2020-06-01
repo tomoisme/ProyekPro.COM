@@ -14,11 +14,15 @@ Saat ini pemakaian pipa besi dan pipa galvanis sudah jauh berkurang dikarenakan 
 
 Pipa galvanis tersedia dalam ukuran panjang 6 meter, mempermudah anda yang butuh pipa ukuran panjang untuk meminimalisir penyambungan. Berikut ini adalah rangkuman harga pipa galvanis:
 
+![pipa galvanis sch 40](../img/pipa-galvanis-sch-40.jpg)
+
 ##### Harga Pipa Galvanis Sch 40
 
 {{<pipa-besi/harga-galvanis-sch-40>}}
 
 Pipa galvanis memiliki beberapa standar ukuran dan ketebalan, misalnya schedule 40 seperti tabel diatas. Ketebalannya sedikit lebih tebal dari pipa galvanis medium yang memiliki ketebalan dinding di bawahnya. Harganya juga otomatis lebih mahal.
+
+![pipa galvanis medium](../img/pipa-galvanis-medium.jpg)
 
 ##### Harga Pipa Galvanis Medium
 
